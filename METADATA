@@ -1,19 +1,3 @@
-name: "futures-task"
-description: "Tools for working with tasks."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/futures-task"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/futures-task/futures-task-0.3.13.crate"
-  }
-  version: "0.3.13"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2021
-    month: 4
-    day: 1
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b33a243113b0ad103669d555d48c9505431b3e04fe6554cdc777512044067bf
+size 386
